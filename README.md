@@ -36,12 +36,29 @@ I build gameplay systems in **Unreal Engine 5**: combat, abilities, interaction,
 
 **Also use:** Blender · Photoshop · Illustrator
 
+<h3 align="left">⚙️ Languages & Tools</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5" />
-  <img src="https://img.shields.io/badge/Blueprint-1E3A8A?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprint" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/unrealengine/ffffff">
+      <img alt="Unreal Engine 5" width="40" height="40" src="https://cdn.simpleicons.org/unrealengine/000000">
+    </picture>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/blender_org/blender_org-icon.svg" alt="Blender" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+  </a>
 </p>
 
 ## 📫 Get in touch
